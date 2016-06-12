@@ -1,10 +1,10 @@
 {
-    "name": "ycyuxin/api",
+    "name": "yuxin/api",
     "description": "RESTful API Helper.",
     "keywords": ["api"],
     "license": "None",
     "authors": [{
-        "name": "ycyuxin",
+        "name": "yuxin",
         "email": "ycyuxin@gmail.com"
     }],
     "autoload": {
