@@ -1,0 +1,15 @@
+{
+    "name": "dl/api",
+    "description": "RESTful API Helper.",
+    "keywords": ["api"],
+    "license": "None",
+    "authors": [{
+        "name": "ycyuxin",
+        "email": "ycyuxin@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Dl\\Api\\": "src"
+        }
+    }
+}
